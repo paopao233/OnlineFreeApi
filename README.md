@@ -3,6 +3,8 @@
 这些接口都是我测试的时候用过的！可以使用才会发布出来。不过也不排除接口提供者下线接口，<br>
 如果有这种情况出现，请及时私信我~
 > 最后更新时间：2021年5月29日
+# 收集
+要是有好玩且使用、稳定的接口，大家也可以加我tg联系我添加 TG：parklot
 
 # 微信公众号
 > 大家可以关注一下我的公众号：一颗咕噜球 
@@ -12,6 +14,7 @@
 > 每一家的接口我都会做一个目录标题出来，方便大家查看
 * [零七生活API](https://github.com/paopao233/OnlineFreeApi#%E9%9B%B6%E4%B8%83%E7%94%9F%E6%B4%BBapi)
 * [UomgAPI](https://github.com/paopao233/OnlineFreeApi#uomgapi)
+* [alapi](https://github.com/paopao233/OnlineFreeApi#alapi)
 # 接口
 ### 零七生活API  
 > 推荐理由：稳定、快速、免费的API接口服务，该网站目前有18个接口。我自己也在用里面短视频去水印、二维码生成的接口！<br>
@@ -46,3 +49,17 @@
 * [查询域名是否被墙](https://api.uomg.com/doc-ck_qiang.html) - 检测域名是否被墙，国内无法打开！ 
 * [报毒检测 - 电脑管家](https://api.uomg.com/doc-check.qq.html) - 检测QQ电脑管家报毒检测
 * [三合一收款二维码](https://api.uomg.com/doc-qrcode.pay.html) - 将QQ、微信、支付宝收款集合到一起，省去用户选择时间。
+
+### alapi
+> 推荐理由：这个网站的接口很全啊（算了一下，有95个） 基本你想要的都有，特别是那个短视频解析（聚合）！<br>
+> 但是就是不像前面两个一样没有限制调用次数，比如短视频解析，免费套餐是1000次/天。测试的话的基本够用了。<br>
+> 下面推荐几个比较使用的！
+* [聚合短视频解析](http://www.alapi.cn/api/view/94) - 聚合短视频解析下载,支持 快手、抖音、火山、ins、皮皮搞笑、facebook、优酷、爱奇艺等等超多个
+* [垃圾分类查询](	https://www.alapi.cn/api/view/20) - 通过关键字搜索物品是否属于哪种垃圾...
+* [知乎热报-当天日报](https://www.alapi.cn/api/view/25) - 获取当天的知乎日报...
+* [智能对联生成](https://www.alapi.cn/api/view/47) - 智能对联生成，输入关键字生成押韵对联...
+* [B站AV号BV号转换](https://www.alapi.cn/api/view/59) - b站 av 号转bv号，或者bv号转换成av号...
+* [图片审核](https://www.alapi.cn/api/view/80) - 用来检测图片是否色情，暴恐，政治，公众，OCR,网图OCR,...
+* [域名Whois 查询](https://www.alapi.cn/api/view/45) - 查询注册域名的 whois 信息...
+* [笑话大全-随机](https://www.alapi.cn/api/view/12) - 获取每日笑话，数据来自互联网...
+
