@@ -11,7 +11,7 @@
 # 目录
 > 每一家的接口我都会做一个目录标题出来，方便大家查看
 * [零七生活API](https://github.com/paopao233/OnlineFreeApi#%E9%9B%B6%E4%B8%83%E7%94%9F%E6%B4%BBapi)
-* [UomgAPI](https://github.com/paopao233/OnlineFreeApi#%E9%9B%B6%E4%B8%83%E7%94%9F%E6%B4%BBapi)
+* [UomgAPI](https://github.com/paopao233/OnlineFreeApi#uomgapi)
 # 接口
 ### 零七生活API  
 > 推荐理由：稳定、快速、免费的API接口服务，该网站目前有18个接口。我自己也在用里面短视频去水印、二维码生成的接口！<br>
