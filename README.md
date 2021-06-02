@@ -15,6 +15,8 @@
 * [零七生活API](https://github.com/paopao233/OnlineFreeApi#%E9%9B%B6%E4%B8%83%E7%94%9F%E6%B4%BBapi)
 * [UomgAPI](https://github.com/paopao233/OnlineFreeApi#uomgapi)
 * [alapi](https://github.com/paopao233/OnlineFreeApi#alapi)
+* []()
+* []()
 # 接口
 ### 零七生活API  
 > 推荐理由：稳定、快速、免费的API接口服务，该网站目前有18个接口。我自己也在用里面短视频去水印、二维码生成的接口！<br>
@@ -63,3 +65,11 @@
 * [域名Whois 查询](https://www.alapi.cn/api/view/45) - 查询注册域名的 whois 信息...
 * [笑话大全-随机](https://www.alapi.cn/api/view/12) - 获取每日笑话，数据来自互联网...
 
+### 星辰API
+> 推荐理由：这个跟前面两个的接口很多都是相同的 但是有几个也是比较实用又特有滴 但是该网站许多接口都不存在了！
+* [抖音热搜](https://api.xcboke.cn/api/dyrs) - 实时获取抖音热搜榜
+* [音乐解析](https://api.xcboke.cn/doc/yinyue.html) - 支持网易云、腾讯音乐等音乐解析
+
+### YunGe123 Api
+> 推荐理由：这个就比较厉害啦 各种音乐解析 小说解析 由于接口都是在首页 所以就只列出一两个 大家自己进去找找 注意：需要申请key 但是是免费的！
+* [起点中文网小说](http://api1998.cn/) - 查询返回起点小说章节、内容等信息，付费的VIP卷获取不了
