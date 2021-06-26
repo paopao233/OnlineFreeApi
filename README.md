@@ -3,7 +3,7 @@
 这些接口都是我测试的时候用过的！可以使用才会发布出来。不过也不排除接口提供者下线接口，<br>
 如果有这种情况出现，请及时私信我~
 对你有帮助的话，麻烦来个star吧~
-> 最后更新时间：2021年6月2日
+> 最后更新时间：2021年6月26日
 # 收集
 要是有好玩且使用、稳定的接口，大家也可以加我tg联系我添加 TG：parklot
 
@@ -16,8 +16,8 @@
 * [零七生活API](https://github.com/paopao233/OnlineFreeApi#%E9%9B%B6%E4%B8%83%E7%94%9F%E6%B4%BBapi)
 * [UomgAPI](https://github.com/paopao233/OnlineFreeApi#uomgapi)
 * [alapi](https://github.com/paopao233/OnlineFreeApi#alapi)
-* [unGe123 Api](https://github.com/paopao233/OnlineFreeApi/blob/main/README.md#yunge123-api)
-* [星辰API](https://github.com/paopao233/OnlineFreeApi/blob/main/README.md#%E6%98%9F%E8%BE%B0api)
+* [unGe123 Api](https://github.com/paopao233/OnlineFreeApi#yunge123-api)
+* [星辰API](https://github.com/paopao233/OnlineFreeApi#%E6%98%9F%E8%BE%B0api)
 # 接口
 ### 零七生活API  
 > 推荐理由：稳定、快速、免费的API接口服务，该网站目前有18个接口。我自己也在用里面短视频去水印、二维码生成的接口！<br>
@@ -74,3 +74,20 @@
 ### YunGe123 Api
 > 推荐理由：这个就比较厉害啦 各种音乐解析 小说解析 由于接口都是在首页 所以就只列出一两个 大家自己进去找找 注意：需要申请key 但是是免费的！
 * [起点中文网小说](http://api1998.cn/) - 查询返回起点小说章节、内容等信息，付费的VIP卷获取不了
+
+
+### ChenYFanの公开API
+> 推荐理由：ChenYFanのAPI，是搭建在CloudFlareWorker无服务器上的高可用动态API，每天支持10万次高频率调用，计算时间少于10ms。
+> 这家响应时间短是一个亮点！但是整体api的数量少，似乎是不小心删库了，恢复时间待定中..以下是我觉得实用有方便的接口示例。
+* [ChenYFanの公开API](https://api.cyfan.top/) - 所有接口都在一个页面，下面进去的是接口的地址，使用说明请使用这个连接
+* [必应壁纸](https://api.cyfan.top/bing) - 可自定义“距今的日期”和返回的格式
+* [ACG动漫图片](https://api.cyfan.top/acg) - 这个比较厉害了，可以选择r18图片，具体自己摸索！还支持websocket方式访问
+* [唐诗宋词API](https://api.cyfan.top/poet) - 该api可以选择唐诗或者宋词，还可以将其翻译，最后返回结果还支持转为图片的形式！很大亮点
+* [百度收录查询](https://api.cyfan.top/baiduseo?type=all&domain=vpao.net) - 可以查询网站的搜录情况，但是可能调用频繁会触发百度人机验证
+* [网站缩略图](https://api.cyfan.top/thumb?url=https://www.baidu.com) - 可以返回你的网站的缩略图！
+* [云端渲染MarkDown](https://api.cyfan.top/mark?url=https://cdn.jsdelivr.net/gh/ChenYFan/blog/source/_posts/how-to-use-euserv.md
+) - 返回目标md地址的markdown文档
+* [虚拟头像生成](https://api.cyfan.top/avatar) - 返回一个随机的头像！还可以返回acg类型的，前端调试的时候可以使用！
+
+
+
