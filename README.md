@@ -18,6 +18,7 @@
 * [alapi](https://github.com/paopao233/OnlineFreeApi#alapi)
 * [unGe123 Api](https://github.com/paopao233/OnlineFreeApi#yunge123-api)
 * [星辰API](https://github.com/paopao233/OnlineFreeApi#%E6%98%9F%E8%BE%B0api)
+* [ChenYFanの公开API](https://github.com/paopao233/OnlineFreeApi#chenyfan%E3%81%AE%E5%85%AC%E5%BC%80api)
 # 接口
 ### 零七生活API  
 > 推荐理由：稳定、快速、免费的API接口服务，该网站目前有18个接口。我自己也在用里面短视频去水印、二维码生成的接口！<br>
