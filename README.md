@@ -21,6 +21,7 @@
 * [ChenYFanの公开API](https://github.com/paopao233/OnlineFreeApi#chenyfan%E3%81%AE%E5%85%AC%E5%BC%80api)
 * [ipify API](https://github.com/paopao233/OnlineFreeApi#ipify-api)
 * [淘宝官方api](https://github.com/paopao233/OnlineFreeApi/#%E6%B7%98%E5%AE%9D-api)
+* [TenApi]()
 
 
 # 接口
@@ -100,4 +101,12 @@
 ### 淘宝 API
 > 推荐理由：淘宝的api，dddd
 * [手机号归属地查询](https://tcc.taobao.com/cc/json/mobile_tel_segment.htm?tel=15218623644) - 返回手机号的归属地，此为示例，更改tel即可使用！
+
+### Ten API
+> 推荐理由：这一家的api很多，而且可靠性和可调用性也都很高，并且作者经常更新！下面列举几个特色Api，其他的到官网里面找吧！每个Api都有详细的介绍，很人性化~
+* [TenApi](https://tenapi.cn/) - Ten API
+* [聚合短视频无水印解析](https://docs.tenapi.cn/video.html) - 返回无水印视频，支持列表：抖音/皮皮虾/火山/微视/微博/绿洲/最右/轻视频/instagram/哔哩哔哩/快手/全民小视频/皮皮搞笑
+全民k歌/巴塞电影/陌陌/Before避风/开眼/Vue Vlog/小咖秀/西瓜视频/逗拍/虎牙/6间房/梨视频/新片场/acfun/美拍
+* [QQ资料卡唤醒](https://docs.tenapi.cn/qqzlk.html#%E8%AF%B7%E6%B1%82%E7%A4%BA%E4%BE%8B) - 一键唤醒QQ资料卡
+
 
