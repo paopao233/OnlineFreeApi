@@ -3,7 +3,7 @@
 这些接口都是我测试的时候用过的！可以使用才会发布出来。不过也不排除接口提供者下线接口，<br>
 如果有这种情况出现，请及时私信我~
 对你有帮助的话，麻烦来个star吧~
-> 最后更新时间：2021年6月27日
+> 最后更新时间：2021年7月20日
 # 收集
 要是有好玩且使用、稳定的接口，大家也可以加我tg联系我添加 TG：parklot
 
@@ -21,7 +21,7 @@
 * [ChenYFanの公开API](https://github.com/paopao233/OnlineFreeApi#chenyfan%E3%81%AE%E5%85%AC%E5%BC%80api)
 * [ipify API](https://github.com/paopao233/OnlineFreeApi#ipify-api)
 * [淘宝官方api](https://github.com/paopao233/OnlineFreeApi/#%E6%B7%98%E5%AE%9D-api)
-* [TenApi]()
+* [TenApi](https://github.com/paopao233/OnlineFreeApi#ten-api)
 
 
 # 接口
