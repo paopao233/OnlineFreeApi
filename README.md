@@ -3,7 +3,7 @@
 这些接口都是我测试的时候用过的！可以使用才会发布出来。不过也不排除接口提供者下线接口，<br>
 如果有这种情况出现，请及时私信我~
 对你有帮助的话，麻烦来个star吧~
-> 最后更新时间：2021年7月20日
+> 最后更新时间：2021年9月8日
 # 收集
 要是有好玩且使用、稳定的接口，大家也可以加我tg联系我添加 TG：parklot
 
@@ -22,7 +22,7 @@
 * [ipify API](https://github.com/paopao233/OnlineFreeApi#ipify-api)
 * [淘宝官方api](https://github.com/paopao233/OnlineFreeApi/#%E6%B7%98%E5%AE%9D-api)
 * [TenApi](https://github.com/paopao233/OnlineFreeApi#ten-api)
-
+* [julym API](https://github.com/paopao233/OnlineFreeApi#julym-api)
 
 # 接口
 ### 零七生活API  
@@ -109,4 +109,8 @@
 全民k歌/巴塞电影/陌陌/Before避风/开眼/Vue Vlog/小咖秀/西瓜视频/逗拍/虎牙/6间房/梨视频/新片场/acfun/美拍
 * [QQ资料卡唤醒](https://docs.tenapi.cn/qqzlk.html#%E8%AF%B7%E6%B1%82%E7%A4%BA%E4%BE%8B) - 一键唤醒QQ资料卡
 
-
+### julym API
+> 推荐理由：这个虽然接口少，但是有比较稳定！
+* [julym API](https://api.julym.com) - julym API
+* [网课答案查询](https://api.julym.com/html/doc-wk.html) - 网课答案查询，抓取了几十万题，题库也在慢慢完善，每天都会新增很多题，
+* [今日热门](https://api.julym.com/html/doc-todayhot.html) - 共支持十一个平台:微博热搜、百度、贴吧、豆瓣、微信热搜、微信热门文章、知乎、网易新闻、微博热门话题、Twitter全球趋势、历史上的今天
