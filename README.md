@@ -3,9 +3,10 @@
 这些接口都是我测试的时候用过的！可以使用才会发布出来。不过也不排除接口提供者下线接口，<br>
 如果有这种情况出现，请及时私信我~
 对你有帮助的话，麻烦来个star吧~
-> 最后更新时间：2021年9月8日
+> 最后更新时间：2021年10月27日
 # 收集
 要是有好玩且使用、稳定的接口，大家也可以加我tg联系我添加 TG：parklot
+不过这些接口稳定性也是不知道，所以如果要正式运行使用的话请谨慎！
 
 # 微信公众号
 > 大家可以关注一下我的公众号：一颗咕噜球 
@@ -114,3 +115,12 @@
 * [julym API](https://api.julym.com) - julym API
 * [网课答案查询](https://api.julym.com/html/doc-wk.html) - 网课答案查询，抓取了几十万题，题库也在慢慢完善，每天都会新增很多题，
 * [今日热门](https://api.julym.com/html/doc-todayhot.html) - 共支持十一个平台:微博热搜、百度、贴吧、豆瓣、微信热搜、微信热门文章、知乎、网易新闻、微博热门话题、Twitter全球趋势、历史上的今天
+
+### 韩小韩API
+> 推荐理由：好多接口！而且大部分接口是上面一些商家的特色接口！比如全民K歌、骚扰电话查询、bing每日壁纸...太多了！而且该站已经共被调用 57783579 次了。有需要的可以玩玩！不过遗憾的是，有些接口是不对外开放的，比如网课接口！
+* [韩小韩 API](https://api.vvhan.com/saorao.html) - 韩小韩 API
+* [骚扰电话查询](https://api.vvhan.com/saorao.html) - 查询该手机号是否是骚扰电话！
+* [Bing每日图片API接口](https://api.vvhan.com/bing.html) - 返回bing每日壁纸
+* [网易云随机歌曲](https://api.vvhan.com/wangyisj.html) - 返回网易云随机歌曲API接口
+* [蓝奏云直连解析](https://api.vvhan.com/lanzou.html) - 解析蓝奏云！
+* [每天60秒读懂世界API接口](https://api.vvhan.com/60s.html) - 返回一堆东西啦！
