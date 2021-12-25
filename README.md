@@ -125,3 +125,15 @@
 * [网易云随机歌曲](https://api.vvhan.com/wangyisj.html) - 返回网易云随机歌曲API接口
 * [蓝奏云直连解析](https://api.vvhan.com/lanzou.html) - 解析蓝奏云！
 * [每天60秒读懂世界API接口](https://api.vvhan.com/60s.html) - 返回一堆东西啦！
+
+### 三三酱-API 
+> 这个有挺多接口的，而且也是主打没有广告和免费。我是找“狗屁不通文章生成器”的时候找到的。
+* [三三酱-API ](https://ovooa.com/) - 三三酱-API 
+* [狗屁不通文章生成](https://ovooa.com/?action=doc&id=102) - 生成一篇文章，水字数，如此简单。
+* [小冰颜值鉴定(测试版)](https://ovooa.com/?action=doc&id=138) - 微软小冰颜值打分
+* [早晚生成图](https://ovooa.com/?action=doc&id=136) - 生成晚安晚安问候图
+* [B站今日更新(国漫日漫)](https://ovooa.com/?action=doc&id=122) - 获取番剧今日更新列表！
+* [QQ音乐VIP版](https://ovooa.com/?action=doc&id=117) - 可以点VIP音乐，不支持付费歌曲
+
+
+## 捐赠
