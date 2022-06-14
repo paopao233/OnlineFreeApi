@@ -30,7 +30,7 @@
 * [TenApi](https://github.com/paopao233/OnlineFreeApi#ten-api)
 * [julym API](https://github.com/paopao233/OnlineFreeApi#julym-api)
 * [韩小韩](https://github.com/paopao233/OnlineFreeApi#%E9%9F%A9%E5%B0%8F%E9%9F%A9api)
-* [橡皮糖API](https://github.com/paopao233/OnlineFreeApi/edit/main/README.md#%E6%A9%A1%E7%9A%AE%E7%B3%96api)
+* [橡皮糖API](https://github.com/paopao233/OnlineFreeApi#%E6%A9%A1%E7%9A%AE%E7%B3%96api)
 
 # 接口
 ### 零七生活API  
